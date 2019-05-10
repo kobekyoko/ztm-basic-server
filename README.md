@@ -1,5 +1,5 @@
 ## ztm-basic-server
-Basic server (without using Express.js) : Udemy: ZeroToMastery Sec24 240 Building a Server
+Basic server using http module of Node.js (without using Express.js) : Udemy: ZeroToMastery Sec24 240 Building a Server
 
 ## Notes
 
